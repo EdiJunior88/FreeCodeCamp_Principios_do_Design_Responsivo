@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="index.css">
+  <title>Usar uma imagem Retina para telas de resolução mais alta</title>
+</head>
+
+<body>
+  <h1>Usar uma imagem Retina para telas de resolução mais alta</h1>
+
+  <p>Com o aumento dos dispositivos conectados à Internet, seus tamanhos e especificações variam bastante. As telas que esses dispositivos usam podem ser diferentes externa e internamente. A densidade de pixels é um aspecto que pode ser diferente de um dispositivo para outro e essa densidade é conhecida como Pixel Por Polegada (PPI) ou pontos por polegada (DPI). A tela mais famosa é aquela conhecida como "Tela Retina" nos notebooks Apple MacBook Pro mais recentes e, nos últimos tempos, em computadores iMac. Devido à diferença na densidade de pixels entre uma tela "Retina" e "não Retina", algumas imagens que não foram feitas com uma tela de alta resolução em mente podem parecer "pixeladas" quando renderizadas em uma tela de alta resolução.</p>
+
+  <p>A maneira mais simples de fazer com que suas imagens apareçam de maneira adequada em telas de alta resolução, como a "tela retina" do MacBook Pro, é definir os valores de largura (<code>width</code>) e altura (<code>height</code>) da imagem para a metade do arquivo original. Aqui vemos um exemplo de imagem que usa apenas metade da altura e largura originais:</p>
+
+  <pre>
+    &ltstyle&gt
+      img {
+        height: 250px;
+        width: 250px;
+      }
+    &lt/style&gt
+    &ltimg src="coolPic500x500" alt="A most excellent picture"&gt
+  </pre>
+
+  <p>Defina a largura (<code>width</code>) e a altura (<code>height</code>) da tag img para a metade de seus valores originais. Nesse caso, a altura (<code>height</code>) original e a largura (<code>width</code>) original são <code>200px</code>.</p>
+</body>
+
+</html>
