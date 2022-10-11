@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="index.css">
+  <title>Tornar a tipografia responsiva</title>
+</head>
+
+<body>
+  <h1>Tornar a tipografia responsiva</h1>
+
+  <p>Em vez de usar em ou px para dimensionar o texto, você pode usar unidades relativas à viewport para ter uma tipografia responsiva. As unidades de viewport, como as porcentagens, são unidades relativas, mas são baseadas em itens diferentes. As unidades de viewport são relativas às dimensões da viewport (largura ou altura) de um dispositivo e as porcentagens são relativas ao tamanho do elemento pai.</p>
+
+  <p>As quatro unidades de viewport são:</p>
+
+  <ul>
+    <li><code>vw</code> (largura da viewport): <code>10vw</code> seria 10% da largura da viewport.</li>
+    <li><code>vh</code> (altura da viewport): <code>3vh</code> seria 3% da altura da viewport.</li>
+    <li><code>vmin</code> (mínimo da viewport): <code>70vmin</code> seria 70% da menor dimensão da viewport (altura ou largura).</li>
+    <li><code>vmax</code> (máximo da viewport): <code>100vmax</code> seria 100% da maior dimensão da viewport (altura ou largura).</li>
+  </ul>
+  
+  <p>Vemos aqui um exemplo que define a largura da tag <code>body</code> para 30% da largura da viewport.</li>
+
+  <pre>
+    body { 
+      width: 30vw; 
+    }
+  </pre>
+
+  <p>Defina a largura (<code>width</code>) da tag <code>h2</code> para 80% da largura da viewport e a largura (<code>width</code>) do parágrafo para 75% da menor dimensão da viewport.</p>
+</body>
+
+</html>
