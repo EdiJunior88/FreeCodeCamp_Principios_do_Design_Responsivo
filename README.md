@@ -16,7 +16,7 @@
 
 <hr>
 
-<h3>Tempo do projeto</h3>
+<h3>Tempo Estudando o Curso</h3>
 
 <p>
   <a href="https://wakatime.com/badge/github/EdiJunior88/FreeCodeCamp_Principios_do_Design_Responsivo">
