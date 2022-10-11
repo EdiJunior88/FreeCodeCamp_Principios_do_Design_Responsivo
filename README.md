@@ -1,5 +1,5 @@
 <h1>FreeCodeCamp</h1>
-<h2>Acessibilidade Aplicada</h2>
+<h2>Princípios do design responsivo para a web</h2>
 
 <p>Existem muitos dispositivos que podem acessar a Internet, de todas as formas e tamanhos. O Design responsivo para a web é a prática de se projetar sites flexíveis, que podem responder a diferentes tamanhos de telas, orientações e resoluções.</p>
 
