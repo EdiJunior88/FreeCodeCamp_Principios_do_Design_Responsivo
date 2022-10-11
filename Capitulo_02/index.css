@@ -1,0 +1,11 @@
+pre {
+  background: rgb(137, 154, 231);
+  font-weight: bolder;
+  font-family: 'Courier New', Courier, monospace;
+  padding-top: 20px;
+}
+
+code {
+  background: rgb(172, 243, 169);
+  font-weight: bolder;
+}
