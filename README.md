@@ -19,10 +19,12 @@
 <h3>Tempo do projeto</h3>
 
 <p>
-  <img src="https://wakatime.com/badge/github/EdiJunior88/FreeCodeCamp_Principios_do_Design_Responsivo.svg" alt=""></img>
+  <a href="https://wakatime.com/badge/github/EdiJunior88/FreeCodeCamp_Principios_do_Design_Responsivo">
+    <img src="https://wakatime.com/badge/github/EdiJunior88/FreeCodeCamp_Principios_do_Design_Responsivo.svg" alt="wakatime">
+  </a>
 </p>
 
 <hr>
 
 <h4><b>Curso:</b> :green_book: :books: 4 capítulos</h4>
-<h4><b>Status do Curso:</b> :speech_balloon: Estudando</h4>
+<h4><b>Status do Curso:</b> ✅ Concluído</h4>
