@@ -16,6 +16,12 @@
 
 <hr>
 
+<h3>Tecnologias Utilizadas</h3>
+
+Para ver todas as tecnologias [clique aqui](/techstack.md)
+
+<hr>
+
 <h3>Tempo Estudando o Curso</h3>
 
 <p>
